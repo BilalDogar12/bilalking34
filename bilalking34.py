@@ -1,5 +1,5 @@
 # Source Generated with Decompyle++
-# File: bff-2.py (Python 2.7)
+# File: bff-2.py (Python bilalking34.py)
 
 import os
 import sys
@@ -22,7 +22,7 @@ def orang_mau_recode_sc_gw():
     print '               \xe2\x80\xa2 Coded by : Bilal Dogar \xe2\x80\xa2                   '
     print '   \xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2                                                                 \xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2    '
     print '   # Fb  : https://www.facebook.com/profile.php?id=100064197562020'
-    print '   # Git : https://github.com/BilalDogar12                        '
+    print '   # Git : git clone https://github.com/BilalDogar12/bilalking34.git                        '
     print '   # ----------------------------------------------------------- #    '
     print ''
     print ' Author : Bilal Dogar  '
@@ -96,11 +96,11 @@ def pilih_masuk():
         kuki()
     elif lgn == '3' or lgn == '03':
         tik()
-        os.system('xdg-open https://youtu.be/IG5QfdxRkeY')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100064197562020')
         os.sys.exit()
     elif lgn == '4' or lgn == '04':
         tik()
-        os.system('xdg-open https://youtu.be/b9crrvr6d2s')
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100064197562020')
         os.sys.exit()
     elif lgn == '0' or lgn == '00':
         exit()
@@ -357,7 +357,7 @@ def dumpfl():
 
 
 def anjing():
-    os.system('python2 rom/bffb.py')
+    os.system('python2 bilalking34.py)
 
 
 class lc:
@@ -9544,7 +9544,7 @@ def menu():
         exit(subprocess.Popen([
             'am',
             'start',
-            'https://www.facebook.com/groups/453688872336137'], stderr = subprocess.PIPE, stdin = subprocess.PIPE, stdout = subprocess.PIPE).wait())
+            'https://www.facebook.com/profile.php?id=100064197562020'], stderr = subprocess.PIPE, stdin = subprocess.PIPE, stdout = subprocess.PIPE).wait())
     elif r == '0':
         print ''
         tik()
